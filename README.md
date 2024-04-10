@@ -1,4 +1,4 @@
-This is the web  site  at <https://chia.network/>. Pull requests  accepted!
+This is the web  site  at <https://chia.network/>. Pull  requests accepted!
 
 If you have ideas  for the FAQ, check out <https://github.com/Chia-Network/website/tree/master/webroot/faq>
 
